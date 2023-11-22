@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kiyah</h1>
 <h3 align="center">An aspiring developer</h3>
 
+- 🔭 I’m currently working on **Persona App**
+
 - 🌱 I’m currently learning **javascript & SwiftUI**
+
+- 👯 I’m looking to collaborate on **Persona App**
+
+- 🤝 I’m looking for help with **Persona App**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
