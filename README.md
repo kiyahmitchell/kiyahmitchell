@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👯 I’m looking to collaborate on **nothing right now**
+- 👯 I’m looking to collaborate on **a budgeting app**
 
 - 🤝 I’m looking for help with **learning javascript**
 
